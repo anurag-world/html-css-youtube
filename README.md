@@ -1,2 +1,2 @@
 # html-css-youtube
-HTML &amp; CSS Files
+Learn HTML & CSS Basics
